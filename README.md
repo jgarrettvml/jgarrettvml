@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-20+ years Dev experience, as lead and architect as well.
+### 20+ years Dev and Cloud experience, as lead and architect as well. 
 
-Here are some of my area of knowledge and expertise
+### Here are some of my area of knowledge and expertise
 
 # 🔧 Front End Technologies
 
@@ -88,3 +88,9 @@ Here are some of my area of knowledge and expertise
     </td>
   </tr>
 </table>
+### Socials  
+
+<p align="left">  
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://twitter.com/josh_garrett_kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+</p>
