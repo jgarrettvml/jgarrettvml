@@ -88,8 +88,8 @@
     </td>
   </tr>
 </table>
-### Socials  
 
+# Socials  
 <p align="left">  
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://twitter.com/josh_garrett_kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
