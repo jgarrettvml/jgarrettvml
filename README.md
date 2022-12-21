@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 20+ years Dev and Cloud experience, as lead and architect as well. 
+### 20+ years Dev and Cloud experience, as lead and architect. 
 
 ### Here are some of my area of knowledge and expertise
 
