@@ -90,10 +90,29 @@
 </table>
 
 # Socials  
-<p align="left">  
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://twitter.com/josh_garrett_kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
-</p>
+<table>
+  <tr>
+   <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+        width="48"
+        height="48"
+        alt="LinkedIn"
+      />
+      <br /><strong>LinkedIn</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+        width="48"
+        height="48"
+        alt="Twitter"
+      />
+      <br /><strong>Twitter/X</strong>
+    </td>
+
+  </tr>
+</table>
 
 **activity**
 
